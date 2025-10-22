@@ -480,7 +480,8 @@ def chose_type_check() -> str:
         print(f'{lcl.INPUT_ERROR}')
 
 
-def pattern_colors(N: int, color_first: str, color_second: str, pattern: str, pattern_type: str) -> list:
+def pattern_colors(N: int, color_first: str, color_second: str, 
+                   pattern: str, pattern_type: str) -> list:
     """
     Determines the color pattern based on user's choice.
 
