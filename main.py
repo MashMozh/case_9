@@ -4,6 +4,7 @@ import time
 import webcolors
 import local as lcl
 
+
 available_colors_1 = [
     ('\U0001F48B' f'{lcl.RED}', 'red'),
     ('\U0001F499' f'{lcl.BLUE}', 'blue'),
